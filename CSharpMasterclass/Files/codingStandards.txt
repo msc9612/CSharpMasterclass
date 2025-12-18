@@ -1,0 +1,14 @@
+//Coding Standards:
+//1. Use meaningful variable names that convey the purpose of the variable.
+    //Reasonable variable names improve code readability and maintainability.
+    //Proper Method names: GetUserName, CalculateTotal, IsValidEmail
+//2. Use camelCase for local variables and parameters.
+    //int myVariable;
+//3. Use PascalCase for constants and readonly fields.
+    //public class MyClass{}
+//4. Always comment your code where necessary to explain complex logic or decisions.
+    //Single line comments: // This is a single line comment
+    //Multi-line comments: /* This is a multi-line comment */
+    //XML documentation comments: /// <summary> This method does something important </summary>
+
+    
